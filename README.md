@@ -7,7 +7,7 @@ Full Stack şekilde yazılmış bir Hastane randevu uygulaması. Backend tarafı
 
 <img  src="https://github.com/mertakkara/HospitalApp/blob/master/Screenshot_1611508855.png" width="300" height="300">
 
-<img  src="https://github.com/mertakkara/HospitalApp/blob/master/Screenshot_1611509001.png" width="300" height="300">
+<img    src="https://github.com/mertakkara/HospitalApp/blob/master/Screenshot_1611509001.png" width="300" height="300">
 
 
 
